@@ -73,6 +73,8 @@ On the second day of training, the focus was on organizing the project in a stru
 
 5.Ensured clarity, scalability, and proper organization of the project structure
 
+link : https://github.com/Shagunsharmacs22/BridgeLabz-Training
+
 📋 📌 Day 3 – 18 December 2025
 
 On the third day of training, I completed the Level 1 and Level 2 assignments related to Programming Elements, focusing on strengthening the core fundamentals of Java programming.
