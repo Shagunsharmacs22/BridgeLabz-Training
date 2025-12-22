@@ -17,7 +17,7 @@ BRIDGELABZ-TRAINING
 
 │   │   │  
 
-│   │   │  
+│   │   ├── arrays
 
 │   │   │
 
