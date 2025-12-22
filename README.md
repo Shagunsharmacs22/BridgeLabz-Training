@@ -113,6 +113,19 @@ On the fourth day of training, I completed the Level 1 and Level 2 assignments f
 6.Organized all Control Flow assignments inside
  link :  https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
 
-   
-   
-   ===core-java-practice/gcr-codebase/control-flow
+📋 📌 Day 5 – 20 December 2025
+
+On the fifth day of training, I completed the Level 3 assignments of the Control Flow module, strengthening my understanding of advanced decision-making and looping logic in Java programs.
+
+Completed Level 3 assignments of the Control Flow module
+
+Solved more complex problems using nested if-else and switch statements
+
+Applied loops with conditions and logical operators to handle real-world scenarios
+
+Improved problem-solving skills by writing optimized and structured Java programs
+
+Implemented multiple programs to demonstrate effective control of program execution flow
+
+Organized all Level 3 Control Flow assignments inside the same repository link:
+https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
