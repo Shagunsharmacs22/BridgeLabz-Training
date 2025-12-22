@@ -6,21 +6,37 @@ Training Program: Bridgelabz – Capgemini
 Start Date: 16 December 2025
 
 BRIDGELABZ-TRAINING
+
 │
+
 ├── core-java-practice
+
 │   ├── gcr-codebase
+
 │   │   ├── programming-elements
+
 │   │   │  
+
 │   │   │  
+
 │   │   │
+
 │   │   ├── control-flow
+
 │   │      
-│   │      
+
 │   │     
+
+│   │     
+
 │   │
+
 │   ├── leet-code-codebase
+
 │   ├── scenario-based
+
 │
+
 └── README.md
 
 📋 📌 Day 1 – 16 December 2025
