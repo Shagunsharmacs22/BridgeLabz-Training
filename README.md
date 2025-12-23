@@ -130,6 +130,9 @@ Implemented multiple programs to demonstrate effective control of program execut
 Organized all Level 3 Control Flow assignments inside the same repository link:
 https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
 
+Also done 2 scenerio based question :
+link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/scenerio-based
+
 📋 📌 Day 6 – 21 December 2025
 
 On the sixth day of training, I completed the Level 1 and Level 2 assignments of the Arrays module. This session focused on understanding array fundamentals in Java, including declaration, initialization, and traversal techniques. I practiced solving problems involving single-dimensional arrays to strengthen my logic-building and data handling skills. Through these assignments, I improved my ability to perform operations such as accessing elements, iterating using loops, and applying basic problem-solving strategies. All array-related assignments were properly organized inside the GCR folder to maintain a structured and readable codebase.
