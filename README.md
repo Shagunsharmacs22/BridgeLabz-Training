@@ -131,7 +131,7 @@ Organized all Level 3 Control Flow assignments inside the same repository link:
 https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
 
 Also done 2 scenerio based question :
-link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/scenerio-based
+link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
 
 📋 📌 Day 6 – 21 December 2025
 
