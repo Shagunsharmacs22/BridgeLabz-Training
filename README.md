@@ -15,7 +15,7 @@ BRIDGELABZ-TRAINING
 
 │   │   ├── programming-elements
 
-│   │   │  
+│   │   ├──string  
 
 │   │   ├── arrays
 
