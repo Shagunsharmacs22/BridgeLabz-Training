@@ -149,3 +149,13 @@ On the seventh day of training, I completed the Level 1 assignments of the Strin
 On the eighth day of training, I successfully completed the Level 2 and Level 3 assignments of the Strings module. This session focused on advanced string operations in Java, including pattern-based logic, character frequency analysis, substring handling, and efficient manipulation of string data. I practiced solving more complex problems that required combining multiple string concepts and applying optimized logic. Through these assignments, I strengthened my problem-solving abilities and gained deeper confidence in handling real-world string-based scenarios. All Level 2 and Level 3 string assignments were systematically organized inside the GCR folder within the core-java-practice directory to ensure a well-structured and maintainable codebase.
 
 🔗 Link: https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string
+
+📋 📌 Day 9 – 24 December 2025
+
+On the ninth day of training, I successfully completed the Level 1, Level 2, and Level 3 assignments of the Methods module. This session focused on understanding method fundamentals in Java, including method declaration, definition, invocation, return types, parameter passing, and method overloading. I practiced solving problems that required breaking down logic into reusable methods, improving code modularity, readability, and maintainability. Advanced assignments emphasized combining multiple methods to solve complex problems efficiently and applying structured programming principles. Through these exercises, I strengthened my logical thinking and gained confidence in designing clean, reusable, and scalable Java programs. All Level 1, Level 2, and Level 3 method assignments were systematically organized inside the GCR folder within the core-java-practice directory to maintain a well-structured and organized codebase.
+
+🔗 Link:
+https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods
+Also done 2 scenerio based question :
+link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
+ 
