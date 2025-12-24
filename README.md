@@ -1,8 +1,7 @@
 # BridgeLabz-Training
-Bridgelabz Java Training – Capgemini
 
 Name: Shagun Sharma
-Training Program: Bridgelabz – Capgemini
+
 Start Date: 16 December 2025
 
 BRIDGELABZ-TRAINING
