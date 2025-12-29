@@ -18,7 +18,7 @@ BRIDGELABZ-TRAINING
 
 │   │   ├── arrays
 
-│   │   │
+│   │   ├──extras
 
 │   │   ├── control-flow
 
