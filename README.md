@@ -158,4 +158,19 @@ On the ninth day of training, I successfully completed the Level 1, Level 2, and
 https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods
 Also done 2 scenerio based question :
 link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
+
+📋 📌 Day 10 – 29 December 2025
+
+On the twenty-ninth day of training, I successfully completed additional extra practice questions and scenario-based problems to further strengthen my Java programming skills. This session focused on applying core Java concepts in real-world and logical scenarios, emphasizing analytical thinking, problem decomposition, and structured solution design.
+
+I practiced solving diverse scenario-based problems that required combining multiple concepts such as control flow, methods, strings, arrays, and logical conditions to derive efficient and accurate solutions. These exercises helped me improve my ability to understand problem statements clearly, design appropriate logic, and implement clean and maintainable code.
+
+By working on extra questions beyond the regular assignments, I enhanced my confidence in handling edge cases and applying Java concepts practically. All extra practice and scenario-based solutions were systematically organized within the project structure to maintain consistency and clarity in the codebase.
+
+🔗 Scenario-Based Questions Link:
+https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
+
+🔗 for extras question
+https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
+
  
