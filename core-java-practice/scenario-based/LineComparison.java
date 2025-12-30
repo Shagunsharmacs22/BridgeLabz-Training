@@ -5,7 +5,9 @@ public class LineComparison {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
-        System.out.println("Line Comparison Computation Program");
+		
+		//Uc1
+        System.out.println(" Welcome to the Line Comparison Computation Program on Master Branch");
         System.out.println("Enter x1:");
         int x1 = sc.nextInt();
         System.out.println("Enter y1:");
@@ -22,16 +24,22 @@ public class LineComparison {
         int x4 = sc.nextInt();
         System.out.println("Enter y4:");
         int y4 = sc.nextInt();
-        double length1 = Math.sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
-        double length2 = Math.sqrt((x4 - x3) * (x4 - x3) + (y4 - y3) * (y4 - y3));
-        System.out.println("Length of Line 1: " + length1);
-        System.out.println("Length of Line 2: " + length2);
-        if (length1 == length2) {
-            System.out.println("Both lines are equal");
-        } else if (length1 > length2) {
-            System.out.println("Line 1 is greater than Line 2");
-        } else {
-            System.out.println("Line 1 is smaller than Line 2");
-        }
+    //method call
+        CheckEquality(x1,x2,x3,x4,y1,y2,y3,y4);
+	}
+	public static void CheckEquality(int x1,int x2,int x3,int x4,int y1,int y2,int y3,int y4) {
+		//Uc2
+		  double length1 = Math.sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
+	        double length2 = Math.sqrt((x4 - x3) * (x4 - x3) + (y4 - y3) * (y4 - y3));
+	        System.out.println("Length of Line 1: " + length1);
+	        System.out.println("Length of Line 2: " + length2);
+	        //Uc3 check the equality of lines
+	        if (length1 == length2) {
+	            System.out.println("Both lines are equal");
+	        } else if (length1 > length2) {
+	            System.out.println("Line 1 is greater than Line 2");
+	        } else {
+	            System.out.println("Line 1 is smaller than Line 2");
+	        }
 	}
 }
