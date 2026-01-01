@@ -209,7 +209,7 @@ I practiced writing multiple programs that demonstrated how classes act as bluep
 
 By implementing class-and-object-based programs, I improved my ability to model real-world problems using Java’s object-oriented approach. All programs were written in a clean and organized manner to ensure better readability and reusability of code.
 
-link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-objects
+link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object
 
 📋 📌 Day 12 – 31 December 2025
 
@@ -219,7 +219,7 @@ I practiced writing programs using default constructors, parameterized construct
 
 By working on constructor-based programs, I gained confidence in initializing instance variables correctly and designing classes with proper object initialization logic. This strengthened my understanding of object lifecycle and improved the overall structure of my Java programs.
 
-link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors
+link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor
 
 📋 📌 Day 13 – 1 January 2026
 
