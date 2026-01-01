@@ -36,6 +36,34 @@ BRIDGELABZ-TRAINING
 
 │
 
+├── oops-practice
+
+│   ├── gcr-codebase
+
+│   │   ├── class-and-objects
+
+│   │   │ 
+
+│   │   ├── keywords
+
+│   │   │ 
+
+│   │   ├── constructor
+
+│   │      
+
+│   │     
+
+│   │     
+
+│   │
+
+│   ├── leet-code-codebase
+
+│   ├── scenario-based
+
+│
+
 └── README.md
 
 📋 📌 Day 1 – 16 December 2025
