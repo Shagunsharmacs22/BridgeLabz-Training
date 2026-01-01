@@ -201,4 +201,35 @@ https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/core-java-practice/
 🔗 for extras question
 https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
 
+📋 📌 Day 11 – 30 December 2025
+
+On the thirtieth day of training, I successfully completed the Class and Objects module in Java. This session focused on understanding the fundamentals of object-oriented programming, including class structure, object creation, instance variables, and methods.
+
+I practiced writing multiple programs that demonstrated how classes act as blueprints and how objects represent real-world entities. Through hands-on coding, I strengthened my understanding of object interaction, method invocation using objects, and data encapsulation at a basic level.
+
+By implementing class-and-object-based programs, I improved my ability to model real-world problems using Java’s object-oriented approach. All programs were written in a clean and organized manner to ensure better readability and reusability of code.
+
+link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-objects
+
+📋 📌 Day 12 – 31 December 2025
+
+On the thirty-first day of training, I successfully completed the Constructors module in Java. This session focused on understanding the purpose and usage of constructors for initializing objects and managing object state efficiently.
+
+I practiced writing programs using default constructors, parameterized constructors, and constructor overloading. These exercises helped me understand how constructors are automatically invoked during object creation and how they differ from regular methods.
+
+By working on constructor-based programs, I gained confidence in initializing instance variables correctly and designing classes with proper object initialization logic. This strengthened my understanding of object lifecycle and improved the overall structure of my Java programs.
+
+link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors
+
+📋 📌 Day 13 – 1 January 2026
+
+On the first day of January 2026, I successfully completed the Keywords module in Java. This session focused on understanding commonly used Java keywords such as this, static, final, and other core keywords, and their role in controlling program behavior.
+
+I practiced implementing programs that demonstrated the practical use of these keywords in real scenarios, such as differentiating instance variables using this, sharing data using static, and restricting modification using final.
+
+By applying Java keywords in hands-on coding exercises, I enhanced my understanding of code clarity, memory management, and program design principles. This session helped me write more structured, efficient, and readable Java code.
+
+link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/keywords
+
+
  
