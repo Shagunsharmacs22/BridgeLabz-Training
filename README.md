@@ -231,5 +231,11 @@ By applying Java keywords in hands-on coding exercises, I enhanced my understand
 
 link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/keywords
 
+📋 📌 Day 14 – 2 January 2026
+
+I have done uml diagrams for class and their attributes successfully and object modelling .
+
+link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/uml-diagrans
+
 
  
