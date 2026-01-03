@@ -42,7 +42,7 @@ BRIDGELABZ-TRAINING
 
 │   │   ├── class-and-objects
 
-│   │   │ 
+│   │   ├── uml-diagrams
 
 │   │   ├── keywords
 
