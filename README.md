@@ -235,7 +235,7 @@ link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practic
 
 I have done uml diagrams for class and their attributes successfully and object modelling .
 
-link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/uml-diagrans
+link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/uml-diagrams
 
 
  
