@@ -237,5 +237,16 @@ I have done uml diagrams for class and their attributes successfully and object 
 
 link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/uml-diagrams
 
+📋 📌 Day 15 – 3 January 2026
+
+On the fifteenth day of training, I successfully practiced Inheritance in Java, focusing on understanding how one class can acquire the properties and behaviors of another class.
+
+I implemented inheritance using the extends keyword, created parent and child classes, and verified how data members and methods are reused without code duplication. This practice strengthened my understanding of IS-A relationships, method accessibility, and real-world object hierarchy modeling.
+
+I also learned how inheritance improves code reusability, maintainability, and scalability in object-oriented design.
+
+link : https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/Inheritance
+
+
 
  
