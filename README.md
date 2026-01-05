@@ -46,7 +46,7 @@ BRIDGELABZ-TRAINING
 
 │   │   ├── keywords
 
-│   │   │ 
+│   │   ├── Inheritance
 
 │   │   ├── constructor
 
