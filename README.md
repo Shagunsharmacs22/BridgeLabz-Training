@@ -1,70 +1,47 @@
-# BridgeLabz-Training
+🏢 BridgeLabz Training– Daily Progress Log 📚 (Shagun Sharma)
+Welcome to my BridgeLabz Training Repository 🚀
+This repository documents my day-wise learning journey 🗓️ during the BridgeLabz technical training, where I practice Core Java programming and strengthen fundamental concepts, strengthen core concepts , and gain hands-on experience with tools like Git and GitHub.
 
-Name: Shagun Sharma
+Each day reflects continuous learning , practical implementation, and skill development.
 
-Start Date: 16 December 2025
+📚 Training Overview
+Organization: BridgeLabz
+Program Type: Technical Training
+Primary Language: Core Java
+Version Control: Git & GitHub
 
-BRIDGELABZ-TRAINING
-
+BridgeLabz-Training/
 │
-
-├── core-java-practice
-
-│   ├── gcr-codebase
-
-│   │   ├── programming-elements
-
-│   │   ├──string  
-
-│   │   ├── arrays
-
-│   │   ├──extras
-
-│   │   ├── control-flow
-
-│   │      
-
-│   │     
-
-│   │     
-
+├── core-java-practice/   
 │   │
-
-│   ├── leet-code-codebase
-
-│   ├── scenario-based
-
-│
-
-├── oops-practice
-
-│   ├── gcr-codebase
-
-│   │   ├── class-and-objects
-
-│   │   ├── uml-diagrams
-
-│   │   ├── keywords
-
-│   │   ├── Inheritance
-
-│   │   ├── constructor
-
-│   │      
-
-│   │     
-
-│   │     
-
+│   ├── gcr-codebase/            # Assignments from Google Cloud Classroom
+│   │       ├── programming elements/
+│   │       ├── control-flow/
+│   │       ├── string/ 
+│   │       ├── arrays/
+|   |       ├── methods/
+|   |       ├── extras/
 │   │
-
-│   ├── leet-code-codebase
-
-│   ├── scenario-based
-
-│
-
+│   ├── scenario-based/          # Scenario-based & real-world logic problems
+│   └── leetcode-code-codebase/  # Daily DSA practice 
+|
+├── oops-practice/
+│   ├── gcr-codebase/            
+│   |      ├── class-and-object/
+|   |      ├── constructor/
+|   |      ├── uml-diagrams/
+|   |      ├── keywords/
+|   |      ├── Inheritance/
+|   |      ├── Encapsulation-Polymorphism-Interface-AbstractClass/
+│   |    
+│   ├── scenario-based/          # Scenario-based & real-world logic problems
+│   └── leetcode-code-codebase/  # Daily DSA practice 
+|
+| 
+├── reviews/                     # for reviews done in the classroom
 └── README.md
+
+DAILY ACTIVITY LOG
 
 📋 📌 Day 1 – 16 December 2025
 
