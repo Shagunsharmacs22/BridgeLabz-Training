@@ -315,7 +315,7 @@ BridgeLabz-Training/
 - Classes implemented only required notification methods
 
 **Code links**
-- [uml-diagrams](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/uml-digrams)
+- [uml-diagrams](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/uml-diagrams)
 - [scenario-based](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 - [leetcode](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase)
 ---
