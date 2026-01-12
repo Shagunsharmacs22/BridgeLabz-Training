@@ -430,6 +430,80 @@ BridgeLabz-Training/
 
 ---
 
+### Day 19 (08-01-2026) – Linked List Practice
+**(`dsa-practice`)**
+
+🔹 Linked List Projects (9)
+
+1. Singly Linked List: Student Record Management
+- Manage student records with operations like insert, delete, search, display, and update grades.
+
+2. Doubly Linked List: Movie Management System
+- Manage movie records with insertions, deletions, search, update, and forward/reverse display.
+
+3. Circular Linked List: Task Scheduler
+-  Schedule tasks using a circular linked list with operations like add, delete, view current task, move to next, display, and search by priority.
+
+4. Singly Linked List: Inventory Management System
+- Manage inventory items with insertions, deletions, search, quantity update, total value calculation, and sorting.
+
+5. Doubly Linked List: Library Management System
+- Manage books with insert, delete, search, update availability, forward/reverse display, and count total books.
+
+6. Circular Linked List: Round Robin Scheduling Algorithm
+- Implement CPU process scheduling with circular linked list, process addition, removal, round-robin simulation, and average waiting/turn-around time calculation.
+
+7. Singly Linked List: Social Media Friend Connections
+- Manage friend connections with add/remove friends, mutual friends, display friends, search users, and count friends.
+
+8. Doubly Linked List: Undo/Redo Functionality for Text Editor
+- Implement undo/redo functionality using doubly linked list with forward/backward traversal, state addition, and history limit.
+
+9. Circular Linked List: Online Ticket Reservation System
+- Manage ticket reservations with insertions, deletions, search, display, and total tickets calculation.
+
+🔹 LeetCode Practice (2)
+- Reverse Linked List – LeetCode 206
+- Merge Two Sorted Linked Lists – LeetCode 21
+
+**Code Links**
+- [Linked List Projects](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linked-list)
+- [LeetCode Solutions](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+
+---
+
+### Day 20 (09-01-2026) – OOPs & DSA Practice
+**(`oops-practice & dsa-practice`)**
+
+🔹 OOPs Practice (oops-practice)
+
+1. Hospital Patient Management System (CRUD)
+- Concepts Used:
+- Classes: Patient, Doctor, Bill
+- Encapsulation using properties
+- Abstraction using IPayable interface
+- Inheritance: InPatient, OutPatient → Patient
+- Polymorphism using overridden displayInfo()
+
+2. Vehicle Rental Application (CRUD)
+- Concepts Used:
+- Classes: Vehicle, Bike, Car, Truck, Customer
+- Inheritance for vehicle types
+- protected fields in base class
+- Interface IRentable with calculateRent(int days)
+- Polymorphic rent calculation
+
+🔹 DSA Practice (dsa-practice)
+🔹 LeetCode Practice (2)
+- Middle of the Linked List – LeetCode 876
+- Linked List Cycle Detection – LeetCode 141
+
+**Code Links**
+- [scenario-based](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+- [LeetCode Solutions](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+
+---
+
 
 ## Purpose of This Repository
 - Maintain a structured learning record
