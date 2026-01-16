@@ -20,4 +20,42 @@ public class AddressBook {
 	            contact.displayContact();
 	        }
 	 }
+	 public void editContactByName(String name, Scanner scanner) {
+
+		    boolean contactFound = false;
+
+		    for (Contact contact : contactList) {
+
+		        if (contact.getFirstName().equalsIgnoreCase(name)) {
+		            contactFound = true;
+
+		            System.out.println("Contact Found. Enter new details:");
+
+		            System.out.print("Enter New Address: ");
+		            contact.setAddress(scanner.next());
+
+		            System.out.print("Enter New City: ");
+		            contact.setCity(scanner.next());
+
+		            System.out.print("Enter New State: ");
+		            contact.setState(scanner.next());
+
+		            System.out.print("Enter New Zip: ");
+		            contact.setZip(scanner.next());
+
+		            System.out.print("Enter New Phone Number: ");
+		            contact.setPhoneNumber(scanner.next());
+
+		            System.out.print("Enter New Email: ");
+		            contact.setEmail(scanner.next());
+
+		            System.out.println("✅ Contact updated successfully!");
+		            return;
+		        }
+		    }
+		    if (!contactFound) {
+		        System.out.println("❌ Contact not found with name: " + name);
+		    }
+		}
+
 }
