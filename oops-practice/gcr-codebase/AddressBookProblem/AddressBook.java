@@ -57,5 +57,23 @@ public class AddressBook {
 		        System.out.println("❌ Contact not found with name: " + name);
 		    }
 		}
+	 
+	 public void deleteContactByName(String name) {
 
+		    boolean contactFound = false;
+		    for (int i = 0; i < contactList.size(); i++) {
+		        Contact contact = contactList.get(i);
+
+		        if (contact.getFirstName().equalsIgnoreCase(name)) {
+		            contactList.remove(i); // delete by index
+		            contactFound = true;
+		            System.out.println("✅ Contact deleted successfully!");
+		            return;
+		        }
+		    }
+
+		    if (!contactFound) {
+		        System.out.println("❌ Contact not found with name: " + name);
+		    }
+		}
 }

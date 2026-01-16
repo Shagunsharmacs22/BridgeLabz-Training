@@ -8,11 +8,12 @@ public class Main {
 		System.out.println("Welcome to Address Book Program in AddressBook Main class on Master Branch");
 		 AddressBook addressBook = new AddressBook();
 		 int choice = 0;
-	        while (choice != 3) {
+	        while (choice != 4) {
 	            System.out.println("\nADDRESS BOOK MENU");
 	            System.out.println("1. Create New Contact");
 	            System.out.println("2. Edit Contact by Name");
-	            System.out.println("3. Exit");
+	            System.out.println("3. Delete Contact by Name");
+	            System.out.println("4. Exit");
 	            System.out.print("Enter your choice: ");
 	            choice = scanner.nextInt();
 	            switch (choice) {
@@ -53,7 +54,14 @@ public class Main {
 	                    String name = scanner.next();
 	                    addressBook.editContactByName(name, scanner);
 	                    break;
+	                
 	                case 3:
+	                    System.out.print("Enter First Name to Delete: ");
+	                    String deleteName = scanner.next();
+	                    addressBook.deleteContactByName(deleteName);
+	                    break;
+	                    
+	                case 4:
 	                    System.out.println("Exiting Address Book. Goodbye!");
 	                    break;
 
