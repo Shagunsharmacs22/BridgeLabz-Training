@@ -2,6 +2,7 @@ package AddressBookProblem;
 import java.util.*;
 
 public class AddressBook {
+	//for add multiple contacts
 	 private List<Contact> contactList;
 	 public AddressBook() {
 	        contactList = new ArrayList<>();
