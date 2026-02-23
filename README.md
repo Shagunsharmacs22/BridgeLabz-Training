@@ -575,6 +575,818 @@ BridgeLabz-Training/
 - [scenario-based](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
 ---
+### Day 23 (14-01-2026) – Stacks, Queues & Hash Maps Practice
+**(`dsa-practice`)**
+
+🔹 Sample Problems for Stacks and Queues
+1. Implement a Queue Using Stacks
+2. Sort a Stack Using Recursion
+3. Stock Span Problem
+4. Sliding Window Maximum
+5. Circular Tour Problem
+
+🔹 Sample Problems for Hash Maps & Hash Functions
+1. Find All Subarrays with Zero Sum
+2. Check for a Pair with Given Sum in an Array
+3. Longest Consecutive Sequence
+4. Implement a Custom Hash Map
+5. Two Sum Problem
+
+🔹 LeetCode Practice (2)
+- Two Sum – LeetCode 1
+- Ransom Note – LeetCode 383
+
+**Code Links**
+- [stack-queue](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue)
+- [hashmap](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/hashmap)
+- [leetcode](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+
+---
+
+### Day 24 (15-01-2026) – Sorting Algorithms & LeetCode Practice
+**(`dsa-practice`)**
+
+🔹 Sorting Algorithms Practice
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Heap Sort
+- Count Sort
+
+🔹 LeetCode Practice (2)
+1. Next Greater Element I – LeetCode 496
+2. Daily Temperatures – LeetCode 739
+
+
+**Code Links**
+- [sorting-algorithms](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)
+- [leetcode](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+
+
+---
+
+### Day 25 (16-01-2026) – Java I/O & String Manipulation Practice
+**(`dsa-practice`)**
+
+🔹 StringBuilder Practice
+- Reverse a String Using StringBuilder
+- Remove Duplicates from a String Using StringBuilder
+
+🔹 StringBuffer Practice
+- Concatenate Strings Efficiently Using StringBuffer
+- Compare StringBuffer and StringBuilder for Concatenation
+
+🔹 FileReader Practice
+- Read a File Line by Line
+- Count Occurrences of a Word in a File
+
+🔹 InputStreamReader Practice
+- Convert Byte Stream to Character Stream
+- Read User Input and Write to File
+
+🔹 Challenge Problem: Compare StringBuilder, StringBuffer, FileReader, and InputStreamReader
+
+🔹 LeetCode Practice
+- Reverse Words in a String – LeetCode 151
+- Add Strings – LeetCode 415
+
+
+**Code Links**
+- [stringbuilder_stringbuffer](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stringbuilder_stringbuffer)
+- [file_reader_input_stream_reader](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/file_reader_input_Stream_reader)
+- [leetcode](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+
+---
+
+
+### Day 26 (17-01-2026) – Linear & Binary Search , Address Book (3 Use Cases) & leetcode problem
+**(`oops-practice`)**
+
+🔹 Linear Search Practice
+- Search for the First Negative Number
+- Search for a Specific Word in a List of Sentences
+
+🔹 Binary Search Practice
+- Find the Rotation Point in a Rotated Sorted Array
+- Find a Peak Element in an Array
+- Search for a Target Value in a 2D Sorted Matrix
+- Find First and Last Occurrence of an Element
+
+🔹 Challenge Problem (Linear + Binary Search)
+- Linear Search: Find the first missing positive integer.
+- Binary Search: Find the index of a target in a sorted array.
+
+🔹 Use Cases – Address Book
+- UC1 – Create Contacts (Add first/last name, address, city, state, zip, phone, email)
+- UC2 – Add a New Contact (Add person details via console using AddressBookMain)
+- UC3 – Edit Existing Contact (Edit contact details via console using person’s information)
+
+🔹 LeetCode Practice
+- Binary Search – LeetCode 704
+- Search Insert Position – LeetCode 35
+
+
+**Code Links**
+- [linearsearch_binarysearch](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linearsearch_binarysearch)
+- [AddressBook](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/AddressBook)
+- [leetcode](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+
+---
+
+## WEEK-6
+
+### Day 27 (19-01-2026) – Address Book (4,5 Use Case) & Runtime Analysis
+**(`dsa-practice`)**
+
+🔹 Use Cases – Address Book
+- UC4 – Delete a Contact: Delete a person using person’s name via console
+- UC5 – Add Multiple Contacts: Add multiple contacts one at a time; use Collection class to maintain multiple contact persons
+
+
+🔹 Runtime Analysis – DSA Problems
+- Search a Target in a Large Dataset using linear and binary search
+- Sorting Large Data Efficiently using bubble sort , merge sort and quick sort
+- String Concatenation Performance using strings ,string builder and string buffer
+- Large File Reading Efficiency using file reader and input stream reader
+- Recursive vs Iterative Fibonacci computation
+- Comparing Different Data Structures for Searching
+
+
+**Code Links**
+- [AddressBook](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/AddressBook)
+- [RuntimeAnalysisBigONotation](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/runtime_analysis_big_o_notation)
+
+
+---
+
+### Day 28 (20-01-2026) – Scenario Based Questions
+**(`dsa-practice`)**
+
+🔹 Scenario Based Questions
+- BankingAccountHierarchy – Added implementation of banking account hierarchy with classes and inheritance
+- BookShelf – Added implementation of book shelf with add, remove, and display book functionality
+- BrowserBuddy – Added implementation of browser buddy with tab management and history tracking
+- CinemaTime – Added implementation of cinema time booking system with seat selection and timing management
+- EmployeeRole – Added implementation of employee roles with role assignment and hierarchy
+- ExamProctor – Added implementation of exam proctor system with scheduling and monitoring features
+- ParcelTracker – Added implementation of parcel tracker with status update and delivery history
+- TrafficManager – Added implementation of traffic manager with vehicle tracking and congestion management
+
+**Code Links**
+- [DSAScenarioBased](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+
+
+---
+
+### Day 29 (21-01-2026) – Collections & Generics Practice
+**(`collections-practice`)**
+
+🔹 Generic & Collection-Based Systems
+- Smart Warehouse Management System ( Implemented a type-safe warehouse system to manage different item categories like Electronics, Groceries, and Furniture.)
+- Dynamic Online Marketplace ( Built a generic product catalog supporting Books, Clothing, and Gadgets. ) 
+- Multi-Level University Course Management System ( Developed a course management system for multiple departments and evaluation styles.)
+- Personalized Meal Plan Generator ( Designed a meal plan generator supporting Vegetarian, Vegan, Keto, and High-Protein meal plans.)
+- AI-Driven Resume Screening System ( Developed a resume screening system for roles such as Software Engineer, Data Scientist, and Product Manager.)
+
+🔹 LeetCode – Array & Collection Problems
+- Contains Duplicate - Leetcode 217
+- Intersection of Two Arrays - Leetcode 349
+
+**Code Links**
+- [generics](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
+- [leetcode](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/leet-code-codebase)
+
+---
+
+### Day 30 (22-01-2026) – List, Set, Queue & Map Interface Practice
+**(`collections-practice`)**
+
+🔹 List Interface
+- Reverse a List
+- Find Frequency of Elements
+- Rotate Elements in a List
+- Remove Duplicates While Preserving Order
+- Find the Nth Element from the End
+
+🔹 Set Interface
+- Check if Two Sets Are Equal
+- Union and Intersection of Sets
+- Symmetric Difference
+- Convert Set to Sorted List
+- Subset Check
+
+🔹 Queue Interface
+- Reverse a Queue
+- Generate Binary Numbers
+- Hospital Triage System
+- Stack Using Queues
+- Circular Buffer Simulation
+
+🔹 Map Interface
+- Word Frequency Counter
+- Invert a Map
+- Find Key with Highest Value
+- Merge Two Maps
+- Group Objects by Property
+
+🔹 LeetCode – Collections Based Problems
+- Kth Largest Element in an Array – LeetCode 215
+- Find Median from Data Stream – LeetCode 295
+
+**Code Links**
+- [collections](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections)
+- [leetcode](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/leet-code-codebase)
+
+
+---
+
+### Day 31 (23-01-2026) – Scenario-Based Collections (Set/Map) & HashMap LeetCode Practice
+**(`collections-practice`)**
+
+🔹java_streams
+- Implemented file read/write using different I/O streams
+- Used buffering for optimized file processing
+- Applied serialization and deserialization
+- Implemented inter-thread communication using streams
+- Handled checked exceptions effectively
+- Processed large files safely and efficiently
+
+**Code Links**
+- [streams](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)
+
+---
+
+## WEEK-7
+
+### Day 32 (27-01-2026) – Exception Handling, Core Java Scenarios
+**(`collections-practice & core-java-practice`)**
+
+🔹 Java Exception Handling
+- Practiced checked, unchecked, and custom exceptions
+- Implemented try–catch, multiple catch blocks, finally, and try-with-resources
+- Demonstrated exception propagation
+- Used custom exceptions for validation and error handling
+
+🔹 Core Java Scenario-Based Program
+- Implemented LexicalTwist scenario-based Java program
+- Added input validation and reverse-word checking
+- Performed vowel and consonant analysis
+- Produced conditional output based on string characteristics
+
+**Code Links**
+- [exceptions](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions)
+- [Lexical Twist](https://github.com/Shagunsharmacs22/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/LexicalTwist.java)
+
+
+---
+
+### Day 33 (28-01-2026) – String Manipulation, Collections & LeetCode
+**(`core-java-practice & collections-practice`)**
+
+🔹 Core Java – Flip Key Logic(String & ASCII Manipulation)
+- Converted input to lowercase
+- Removed characters with even ASCII values
+- Reversed the remaining characters
+- Converted characters at even indices (0-based) to uppercase
+
+🔹 Collections – Scenario-Based Programs
+
+1. Restaurant Table Reservation System
+- Designed table reservation system using:
+- Map<Integer, Table> for table tracking
+- List<Reservation> for reservations
+- Implemented core functionalities:reserveTable(),cancelReservation(),showAvailableTables()
+- Created and threw custom TableAlreadyReservedException
+
+2. File Backup Scheduler
+- Scheduled backup tasks using PriorityQueue<BackupTask>
+- Assigned higher priority to critical folders
+- Implemented Comparable for priority-based execution
+- Validated backup paths
+- Created and threw InvalidBackupPathException
+- Executed backup tasks in correct priority order
+
+🔹 LeetCode – Array & Collection Problems
+- Longest Consecutive Sequence - Leetcode 128
+- Majority Element - Leetcode 169
+
+**Code Links**
+- [FlipKeyLogic](https://github.com/Shagunsharmacs22/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/FlipKeyLogicalProblem.java)
+- [RestaurantTableReservationSystem](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/RestaurantTableReservationSystem)
+- [FileBackupScheduler](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/FIleBackupScheduler)
+- [leetcode](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/leet-code-codebase)
+
+---
+
+### Day 34 (29-01-2026) – Regular Expressions
+**(`collections-practice`)**
+
+🔹Validation Problems
+1. Validate a Username
+2. Validate a License Plate Number
+3. Validate a Hex Color Code
+
+🔹Extraction Problems
+4. Extract All Email Addresses from a Text
+5. Extract All Capitalized Words from a Sentence
+6. Extract Dates in dd/mm/yyyy Format
+7. Extract Links from a Web Page
+
+🔹Replace and Modify Strings
+8. Replace Multiple Spaces with a Single Space
+9. Censor Bad Words in a Sentence
+
+🔹Advanced Problems
+10. Validate an IP Address
+11. Validate a Credit Card Number (Visa, MasterCard, etc.)
+12. Extract Programming Language Names from a Text
+13. Extract Currency Values from a Text
+14. Find Repeating Words in a Sentence
+15. Validate a Social Security Number (SSN)
+
+**Code Links**
+- [Regex](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)
+
+---
+
+### Day 35 (30-01-2026) – Regular Expressions
+**(`oops-practice & collections-practice`)**
+
+🔹Future Logistics - Scenario-based
+- OOP with abstraction & inheritance
+- Brick & Timber transport handling
+- Vehicle-based charge calculation
+- Transport ID validation & billing output
+
+🔹 LeetCode – Collection Problems
+- Maximum Number of Balls in a Box - Leetcode 1742
+- Find Disappeared Numbers - Leetcode 448
+
+**Code Links**
+- [Future Logistics](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/FutureLogistics)
+- [leetcode](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/leet-code-codebase)
+
+
+---
+
+### Day 36 (02-02-2026) – Annotations & Reflection / CSV Handling
+**(`collections-practice & io-programming-practice`)**
+
+🔹Reflection in Java – Basic Level
+- Get Class Information
+- Access Private Field
+- Invoke Private Method
+- Dynamically Create Objects
+
+🔹Reflection in Java – Intermediate Level
+- Dynamic Method Invocation
+- Retrieve Annotations at Runtime
+- Access and Modify Static Fields
+
+🔹Reflection in Java – Advanced Level
+- Custom Object Mapper
+- Generate JSON Representation
+- Custom Logging Proxy
+- Dependency Injection using Reflection
+- Method Execution Timing
+
+🔹Annotations Practice
+- Use @Override Correctly
+- Use @Deprecated to Mark Old Methods
+- Suppress Unchecked Warnings
+- Create a Custom Annotation and Use It
+- Create and Use a Repeatable Annotation
+
+🔹Custom Annotations – Beginner Level
+- @ImportantMethod
+- @Todo
+
+🔹Custom Annotations – Intermediate Level
+- @LogExecutionTime
+- @MaxLength
+
+🔹Custom Annotations – Advanced Level
+- @RoleAllowed
+- @JsonField
+- @CacheResult
+
+🔹CSV Data Handling – Basic Problems
+- Read a CSV File and Print Data
+- Write Data to a CSV File
+- Read and Count Rows in a CSV File
+
+🔹CSV Data Handling – Intermediate Problems
+- Filter Records from CSV
+- Search for a Record in CSV
+- Modify a CSV File
+- Sort CSV Records by a Column
+
+🔹CSV Data Handling – Advanced Problems
+- Validate CSV Data Before Processing
+- Convert CSV Data into Java Objects
+- Merge Two CSV Files
+- Read Large CSV File Efficiently
+- Detect Duplicates in a CSV File
+- Generate a CSV Report from Database
+- Convert JSON to CSV and Vice Versa
+- Encrypt and Decrypt CSV Data
+
+**Code Links**
+- [Reflections](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflections)
+- [Annotaions](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/annotations)
+- [CSV](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv)
+
+---
+
+### Day 37 (03-02-2026) – Scenario-based
+**(`dsa-practice & collections-practice`)**
+
+🔹 Scenario-Based – DSA Practice
+- Factory Robot Hazard Analyzer (Evaluates a factory robot’s hazard risk based on arm precision, worker density, and machinery state using custom exception handling and validation rules.)
+- AeroVigil – Flight Validation System (Validates flight details (flight number, name, passenger capacity, fuel level) using regex and custom exceptions, and calculates required fuel if all checks pass.)
+
+🔹 Scenario-Based – Collections Practice
+- StreamBuzz - Creator Engagement Analyzer (Tracks creators’ weekly likes, identifies top-performing posts based on thresholds, and calculates overall average engagement using collections.)
+
+**Code Links**
+- [FactoryRobotHazardAnalyzer](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/FactoryRobotHazardAnalyzer)
+- [AeroVigil](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/AeroVigil)
+- [StreamBuzz](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/StreamBuzz)
+
+---
+
+### Day 38 (04-02-2026) – Java 8 & IO Programming
+**(`java8-features-practice & io-programming-practice`)**
+
+🔹 JSON Handling – Practice Problems
+- Create a JSON object for a Student with fields: name, age, and subjects.
+- Convert a Java object (Car) into JSON format.
+- Read a JSON file and extract only specific fields (e.g., name, email).
+- Merge two JSON objects into one.
+- Validate JSON structure using Jackson.
+- Convert a list of Java objects into a JSON array.
+- Parse JSON and filter records where age > 25.
+
+🔹 JSON Handling Hands-on Practice
+- Read a JSON file and print all keys and values.
+- Convert a list of Java objects into a JSON array.
+- Filter JSON data to display users older than 25 years.
+- Validate an email field using JSON Schema.
+- Merge two JSON files into a single JSON object.
+- Convert JSON data into XML format.
+- Convert CSV data into JSON.
+- Generate a JSON report from database records.
+
+🔹IPL and Censor Analyzer
+- Develop a Java application that reads IPL match data from JSON and CSV files, applies censorship rules, and writes the sanitized data back to new files.
+
+🔹 Lambda Expressions
+- Smart Home Lighting Automation
+- Custom Sorting in E-Commerce
+- Notification Filtering System
+
+🔹 Method References
+- Hospital Patient ID Printing
+- Employee Name Uppercasing
+- Invoice Object Creation
+
+**Code Links**
+- [Json](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json)
+- [LambdaExpression](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/lambda_expression)
+
+---
+
+### Day 39 (05-02-2026) – Java 8 Collectors Practice
+**(`java8-features-practice`)**
+
+🔹 Collectors – Scenario-Based Practice Questions
+
+- Student Result Grouping
+Group students based on their grade level.
+Collect only student names under each grade.
+Used Collectors.groupingBy() with Collectors.mapping().
+
+- Word Frequency Counter
+Analyze a paragraph and count occurrences of each word.
+Handle duplicate words gracefully.
+Used Collectors.toMap() with merge function.
+
+- Order Revenue Summary
+Calculate total revenue generated by each customer.
+Aggregate order amounts per customer.
+Used Collectors.summingDouble().
+
+- Employee Salary Categorization
+Group employees by department.
+Calculate average salary for each department.
+Used Collectors.groupingBy() with Collectors.averagingDouble().
+
+- Library Book Statistics
+Group books by genre.
+Calculate total pages, average pages, and maximum pages per genre.
+Used Collectors.summarizingInt().
+
+**Code Links**
+- [collectors](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/collectors)
+
+
+---
+
+### Day 40 (06-02-2026) – Defining and Implementing Interfaces
+
+**(`java8-features-practice`)**
+
+🔹 Interfaces – Scenario-Based Practice Questions
+
+🔹Defining and Implementing Interfaces
+- Smart Device Control InterfaceDevices like Lights, AC, and TV implement common control methods.
+- Multi-Vehicle Rental System
+- Cars, Bikes, and Buses share rental-related operations.
+- Digital Payment Interface
+- UPI, Credit Card, and Wallet follow a unified payment contract.
+
+🔹Functional Interfaces
+- Temperature Alert System
+- Used Predicate functional interface for threshold validation.
+- String Length Checker
+- Function functional interface for character count evaluation.
+- Background Job Execution
+- Used Runnable functional interface for asynchronous execution- .
+
+🔹Static Methods in Interfaces
+- Password Strength Validator
+- Centralized password policy validation using static methods.
+- Unit Conversion Tool
+- Standard unit conversions implemented as static interface methods.
+- Date Format Utility
+- Common date formatting logic using static interface methods.
+
+🔹Default Methods in Interfaces
+Data Export Feature
+- Payment Gateway IntegrationAdded refund support using default methods without breaking existing implementations.
+- Extended export functionality with JSON using default methods.
+- Smart Vehicle Dashboard
+- Introduced optional battery display feature using default methods.
+
+🔹Marker Interfaces
+- Data Serialization for Backup
+- Marked classes eligible for backup processing.
+- Cloning Prototype Objects
+- Enabled object cloning using Cloneable marker interface.
+- Sensitive Data Tagging
+- Tagged sensitive data classes for encryption using custom marker interface.
+
+**Code Links**
+- [functionalInterface](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/functional_interface)
+
+---
+
+### Day 41 (07-02-2026) – Collections & Stream API Practice
+
+**(`java8-features-practice & collections-practice`)**
+
+🔹 Collections – Scenario-Based Practice
+- OceanFleet Analytics – Vessel Performance Tracking
+- OceanFleet Analytics is a marine research organization that monitors the performance of cargo vessels operating on various routes. 
+- To improve operational efficiency, a vessel tracking system is implemented using Java Collections to store, retrieve, and analyze vessel performance data.
+- The system manages vessel details such as vessel ID, name, type, and average speed, allowing efficient lookups and identification of high-performing vessels.
+
+
+🔹 Stream API
+
+- Top 5 Trending Movies
+- Hospital Doctor Availability
+- Insurance Claim Analysis
+- Filtering Expiring Memberships
+- Transforming Names for Display
+
+🔹 forEach() Method – Practice Scenarios
+
+- Stock Price Logger
+- Event Attendee Welcome Message
+- IoT Sensor Readings
+- Email Notifications
+- Logging Transactions
+
+**Code Links**
+- [OceanFleet](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/OceanFleet)
+- [StreamAPI](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/stream_api)
+
+
+---
+
+### Day 42 (09-02-2026) – SonarQube Implementation
+**(`collections-practice`)**
+
+🔹 Scenario
+- An organization manages employee leave requests and approvals using Java Collections.
+
+🔹 Requirements Implemented
+- Store employees using Map<EmployeeID, Employee>
+- Store leave requests using List<LeaveRequest>
+- Validate leave balance before approval
+- Throw InsufficientLeaveBalanceException
+- Approve / reject leave requests using methods
+
+🔹 SonarQube Integration
+- Maven-based project
+- SonarQube used for static code analysis
+- Identified and fixed code smells and maintainability issues
+
+**Code Links**
+- [SonarQube](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/sonar-demo)
+
+---
+
+### Day 43 (10-02-2026) – JUnit Scenario-Based Testing
+**(`collections-practice`)**
+
+🔹 Scenario
+- A banking system manages account transactions such as deposits and withdrawals, ensuring correct balance updates and proper exception handling.
+- Created a Bank Account class with balance initialization
+- Implemented Deposit method to add amount to balance
+- Validated negative deposit amounts with exception handling
+- Implemented Withdraw method to deduct amount from balance
+- Validated insufficient balance scenarios with exceptions
+
+🔹 JUnit Testing
+- Maven-based JUnit project structure
+- Created unit tests using JUnit framework
+- Tested deposit functionality with valid and negative amounts
+- Tested withdrawal logic for sufficient and insufficient balance
+- Verified balance updates after transactions
+- Asserted expected exception messages
+
+**Code Links**
+- [BankAccountJunit](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/BankAccountJunit)
+
+---
+
+### Day 44 (11-02-2026) – Smart Energy Consumption Monitor
+**(`collections-practice`)**
+
+🔹 Scenario
+- A smart home system tracks daily energy consumption readings.
+- The system stores and analyzes energy usage data efficiently.
+
+🔹 Requirements Implemented
+- Stored energy readings using Map<Date, List<Double>>
+- Recorded multiple energy readings per day
+- Calculated daily average energy consumption
+- Calculated monthly average energy consumption
+- Implemented InvalidEnergyReadingException for invalid (negative) readings
+- Used OOP principles for clean structure and data handling
+- Created methods for analysis and reporting
+
+**Code Links**
+- [SmartEnergyConsumptionMonitor](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/SmartEnergyConsumptionMonitor)
+
+---
+
+### Day 45 (12-02-2026) – Online Auction Bidding System
+**(`collections-practice`)**
+
+🔹 Scenario
+- An online auction platform allows users to place bids on items.
+- The system ensures that only valid and higher bids are accepted.
+
+🔹 Requirements Implemented
+- Stored bids using TreeMap<User, Double> to maintain sorted order
+- Automatically tracked and displayed the highest bid
+- Prevented lower bids using validation logic
+- Implemented InvalidBidException for invalid or lower bid attempts
+- Designed OOP-based structure using:
+- AuctionItem class
+- Bid class
+- User class
+- Created methods for bid placement and result display
+
+**Code Links**
+- [OnlineAuctionBiddingSystem](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/OnlineAuctionBiddingSystem)
+
+---
+
+### Day 46 — 13-02-2026
+**(`java8-features-practice`)**
+
+🔹  Online Course Enrollment Manager in scenario-based under java8-features-practice :
+- Developed system using Java 8 features
+- Managed student enrollments (name, course, category, date)
+- Filtered data by course name and category
+- Grouped enrollments by course name
+- Counted total enrollments per category
+- Sorted enrollments by date
+- Applied Streams, Lambda, Method References, and Collectors
+- OnlineCourseEnrollmentManager Solution
+
+**Code Links**
+- [OnlineCourseEnrollmentManager](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/scenario-based/OnlineCourseEnrollmentManager)
+
+---
+
+
+### Day 47 (14-02-2026) - Disaster Relief Management
+**(`solution-designing-practice`)**
+
+🔹Disaster Relief Resource Allocation System :
+- Used Map for relief centers and HashMap for inventory
+- Implemented FIFO request handling using Queue
+- Allocated resources based on availability
+- Added custom exception for insufficient stock
+- Structured using layered architecture
+- Demonstrated OOP and Java Collections usage
+
+**Code Links**
+-[DisasterReliefManagement](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/solution-designing-practice/solution-designing-practice/scenario-based/DisasterReliefResorceAllocationSystem)
+
+---
+
+### Day 48 (16-02-2026) - Employee Wage Computation
+**(`java8-features-practice`)**
+
+🔹Created Maven project with 4-layer architecture (controller, model, repository, service)
+
+   Use Cases Implemented:
+
+- UC-1: Attendance using random
+- UC-2: Daily employee wage calculation
+- UC-3: Part-time employee wage
+- UC-4: Switch-case based solution
+- UC-5: Monthly wage computation
+- UC-6: Wage till condition reached
+- UC-7: Class methods and variables
+- UC-8: Multiple companies computation
+- UC-9: Store total wage per company
+- UC-10: Manage multiple companies
+- UC-11: Interface-based implementation
+- UC-12: Company management using ArrayList
+- UC-13: Store daily + total wage
+- UC-14: Retrieve total wage by company
+
+**Code Links**
+-[EmployeeWageComputation](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/scenario-based/employee-wage-computaion)
+
+
+---
+
+### Day 49 (17-02-2026) - Address Book
+**(`oops-practice`)**
+
+🔹Refactored AddressBook gcr-codebase under oops-practice and implemented new use cases :
+- UC-11: Sort Contacts by Name
+- UC-12: Sort Contacts by City, State, and Zip
+- UC-13: Read/Write Address Book using File IO
+- UC-14: Read/Write Address Book as CSV
+- UC-15: Read/Write Address Book as JSON
+- AddressBook Solution
+
+**Code Links**
+-[AddressBook](https://github.com/Shagunsharmacs22/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/AddressBook)
+
+---
+
+### Day 50 (18-02-2026) - RotateLinkedList
+**(`dsa-practice`)**
+
+🔹Rotate Linked List
+- Make the list circular, find the new tail at (length − k % length) position, break the circle, and return the next node as the new head.
+
+**Code Links**
+-[RotateLinkedList](https://github.com/Shagunsharmacs22/BridgeLabz-Training/blob/dsa-practice/dsa-practice/leet-code-codebase/RotateLinkedList.java)
+
+---
+
+### Day 51 (19-02-2026) - Leetcode
+**(`dsa-practice`)**
+
+🔹Longest Substring Without Repeating Characters
+- Use a sliding window: expand the right pointer, and whenever a character repeats, shrink from the left until all characters in the window are unique, tracking the maximum length. 
+
+🔹Product Of Array ExceptSelf
+- For each index, multiply the product of all elements to its left and the product of all elements to its right (using prefix and suffix products) without using division.
+
+**Code Links**
+- [ProductOfArrayExceptSelf](https://github.com/Shagunsharmacs22/BridgeLabz-Training/blob/dsa-practice/dsa-practice/leet-code-codebase/ProductOfArrayExceptSelf.java)
+- [LongestSubstringWithoutRepeating](https://github.com/Shagunsharmacs22/BridgeLabz-Training/blob/dsa-practice/dsa-practice/leet-code-codebase/LongestSubstringWithoutRepeating.java)
+
+---
+
+### Day 52 (20-02-2026) - Leetcode
+**(`dsa-practice`)**
+
+🔹Maximum Points From Cards
+- Use a sliding window technique: instead of picking k cards from the start or end individually, find the minimum sum of a subarray of length n-k (the cards you don’t pick) and subtract it from the total sum to get the maximum points.
+
+🔹Number of Ways to Rearrange Sticks with K Visible Sticks
+- Use dynamic programming: dp[n][k] = dp[n-1][k-1] + (n-1) * dp[n-1][k]
+- Two cases: tallest stick is first (visible) or not first (hidden). Use modulo 10^9+7.
+
+**Code Links**
+- [MaximumPointsFromCards](https://github.com/Shagunsharmacs22/BridgeLabz-Training/blob/dsa-practice/dsa-practice/leet-code-codebase/MaximumPointsFromCards.java)
+- [Number of Ways to Rearrange Sticks with K Visible Sticks](https://github.com/Shagunsharmacs22/BridgeLabz-Training/blob/dsa-practice/dsa-practice/leet-code-codebase/RearrangeSticks.java)
+
 
 
 
